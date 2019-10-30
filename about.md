@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm a long-time developer, sometimes technology leader, sometimes technology follower.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I have been making computers do tricks for a long time now.  
+
+People have paid me to write C#, Clojure, Java, Javascript, Kotlin, Python, Ruby and once TCL.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[codeilverback@twitter](https://twitter.com/codesilverback)
