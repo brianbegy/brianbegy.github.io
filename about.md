@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I'm a long-time developer, sometimes technology leader, sometimes technology follower.
+I'm a long-time developer, sometimes technology leader, more often technology follower.
 
 ### More Information
 
